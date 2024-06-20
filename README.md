@@ -2,9 +2,10 @@
 An opinionated React + Vite project template with eslint, prettier, tailwindcss, shadcn/ui and some utility plugins and hooks.
 
 ## Usage
-```
--- TODO: add usage example
-```
+- Use this template > Create a new repository
+
+![image](https://github.com/coolpepegas/react-vite-template/assets/6567597/cda6610d-be63-4091-81d7-51bb7fb2c8bf)
+
 
 Core packages:
 - [react](https://react.dev/)
